@@ -23,6 +23,14 @@ Run this command in the terminal
 python main.py -query "plot google and amazon 1 year open price"
 ```
 
+# Output 
+`termiinal output`
+![Screenshot 2025-02-28 001549](https://github.com/user-attachments/assets/b05235df-b101-4ddd-a49c-4b8a7aec3196)
+
+`Interactive plot in chrom`
+![Screenshot 2025-02-28 001952](https://github.com/user-attachments/assets/b55aa34e-a38c-4807-aedf-410d12e86014)
+
+
 
 # Agent workflow
 ![agent_with_yfinance_workflow](https://github.com/user-attachments/assets/4f07613b-1ccb-4faf-a595-cc576adbc425)
