@@ -24,10 +24,12 @@ python main.py -query "plot google and amazon 1 year open price"
 ```
 
 # Output 
-`termiinal output`
+# `termiinal output`
+
 ![Screenshot 2025-02-28 001549](https://github.com/user-attachments/assets/b05235df-b101-4ddd-a49c-4b8a7aec3196)
 
-`Interactive plot in chrom`
+# `Interactive plot in chrome`
+
 ![Screenshot 2025-02-28 001952](https://github.com/user-attachments/assets/b55aa34e-a38c-4807-aedf-410d12e86014)
 
 
