@@ -1,0 +1,8 @@
+langgraph 
+langchain 
+langchain_groq 
+jupyter
+langchainhub
+yfinance
+plotly
+kaleido
