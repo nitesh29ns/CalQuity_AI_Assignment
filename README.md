@@ -1,7 +1,7 @@
-# CalQuity_AI_Assignment Task 1: Basic Agent with Tool
+# AI Agent with Tool
 
-# Name -- Nitesh Sharma
-# email -- niteshsharma29.ns@gmail.com
+# Agent workflow
+![agent_with_yfinance_workflow](https://github.com/user-attachments/assets/4f07613b-1ccb-4faf-a595-cc576adbc425)
 
 # Demo Video 
 # https://drive.google.com/file/d/1koo1ZV5isdor3hJ6q7EGuO-ahp3XuDlk/view?usp=sharing
@@ -37,5 +37,4 @@ python main.py -query "plot google and amazon 1 year open price"
 
 
 
-# Agent workflow
-![agent_with_yfinance_workflow](https://github.com/user-attachments/assets/4f07613b-1ccb-4faf-a595-cc576adbc425)
+
